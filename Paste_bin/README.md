@@ -13,7 +13,7 @@
 
 ```bash
 # Клонируй репозиторий
-git clone https://github.com/USERNAME/minimal-pastebin.git
+git clone https://github.com/Kutberdi/minimal-pastebin.git
 cd minimal-pastebin
 
 # Создай и активируй виртуальное окружение
